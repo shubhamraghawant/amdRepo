@@ -1,2 +1,3 @@
 This is a simple text file. 
-Uploading to git
+Uploading to git.
+Now I'm adding new line here
