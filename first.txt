@@ -1,3 +1,4 @@
 This is a simple text file. 
 Uploading to git.
-Now I'm adding new line here
+Now I'm adding new line here.
+Again adding new lin efor checking the gui tool.
